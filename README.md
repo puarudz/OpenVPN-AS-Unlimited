@@ -6,8 +6,10 @@
 
 ```sh
 $ yum install wget -y
-$ wget https://git.io/JtuWL && sed -i -e 's/\r$//' centos7.sh && chmod 755 centos7.sh && ./centos7.sh
-$ node app
+$ wget https://git.io/JtuWL 
+$ sed -i -e 's/\r$//' centos7.sh && chmod 755 centos7.sh 
+$ ./centos7.sh
+
 ```
 > Video Tutorial by Nirob3x : https://www.youtube.com/watch?v=VjA5DuDaweo
 
